@@ -17,7 +17,7 @@ function App() {
   return (
     <div className="App">
      
-     <input type="number" min="1" max= "30" onChange={(e) => setNumber(e.target.value)}  />
+     <input type="number" min="1" max= "" onChange={(e) => setNumber(e.target.value)}  />
      <input type="submit" value="submit" onClick={handleSubmit} />
      {console.log("number",number)}
      {console.log("submit",submit)}
