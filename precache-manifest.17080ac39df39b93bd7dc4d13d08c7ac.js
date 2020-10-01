@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aa65613c7bb8de34035dae2f78010cba",
+    "revision": "d04c43ba5ff8fa57ebd210ffde37d63a",
     "url": "/iTask/index.html"
   },
   {
-    "revision": "62ac206574cf53480e97",
-    "url": "/iTask/static/css/main.ea97b029.chunk.css"
+    "revision": "7f6dc6b725bb8c43c58f",
+    "url": "/iTask/static/css/main.74680c27.chunk.css"
   },
   {
     "revision": "ca5aa0cd3a5c47ed43cf",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/iTask/static/js/2.807bf6ce.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "62ac206574cf53480e97",
-    "url": "/iTask/static/js/main.19f9be2f.chunk.js"
+    "revision": "7f6dc6b725bb8c43c58f",
+    "url": "/iTask/static/js/main.4121f25e.chunk.js"
   },
   {
     "revision": "bef0790a4d8c0c017ed4",

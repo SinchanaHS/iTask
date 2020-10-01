@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/iTask/static/css/main.ea97b029.chunk.css",
-    "main.js": "/iTask/static/js/main.19f9be2f.chunk.js",
-    "main.js.map": "/iTask/static/js/main.19f9be2f.chunk.js.map",
+    "main.css": "/iTask/static/css/main.74680c27.chunk.css",
+    "main.js": "/iTask/static/js/main.4121f25e.chunk.js",
+    "main.js.map": "/iTask/static/js/main.4121f25e.chunk.js.map",
     "runtime-main.js": "/iTask/static/js/runtime-main.e9b47252.js",
     "runtime-main.js.map": "/iTask/static/js/runtime-main.e9b47252.js.map",
     "static/js/2.807bf6ce.chunk.js": "/iTask/static/js/2.807bf6ce.chunk.js",
     "static/js/2.807bf6ce.chunk.js.map": "/iTask/static/js/2.807bf6ce.chunk.js.map",
     "index.html": "/iTask/index.html",
-    "precache-manifest.2abc1a737493a106b66602fa26d536a0.js": "/iTask/precache-manifest.2abc1a737493a106b66602fa26d536a0.js",
+    "precache-manifest.17080ac39df39b93bd7dc4d13d08c7ac.js": "/iTask/precache-manifest.17080ac39df39b93bd7dc4d13d08c7ac.js",
     "service-worker.js": "/iTask/service-worker.js",
-    "static/css/main.ea97b029.chunk.css.map": "/iTask/static/css/main.ea97b029.chunk.css.map",
+    "static/css/main.74680c27.chunk.css.map": "/iTask/static/css/main.74680c27.chunk.css.map",
     "static/js/2.807bf6ce.chunk.js.LICENSE.txt": "/iTask/static/js/2.807bf6ce.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e9b47252.js",
     "static/js/2.807bf6ce.chunk.js",
-    "static/css/main.ea97b029.chunk.css",
-    "static/js/main.19f9be2f.chunk.js"
+    "static/css/main.74680c27.chunk.css",
+    "static/js/main.4121f25e.chunk.js"
   ]
 }
