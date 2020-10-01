@@ -4,9 +4,8 @@ import './Videos.css'
 
 function Videos({video1,video2,number}) {
 
-   
-   
-    const [display,setDisplay] = useState(false);
+
+    
     const [videos,setVideos] = useState([]);
     const [width,setWidth] = useState(window.innerWidth);
     const [height,setHeight] = useState(window.innerHeight);
@@ -21,7 +20,7 @@ function Videos({video1,video2,number}) {
             var imgWidth = Math.sqrt(eachImgArea)+'px';
         
         setWidth(imgWidth);
-        setHeight(imgWidth)
+        setHeight(imgWidth);
 
         }
             
@@ -34,15 +33,13 @@ function Videos({video1,video2,number}) {
 
         }
         setVideos(videos);
-        setDisplay(true);
+       
       
     },[number])
 
     return (
         <div className='Vid__style'>
         {videos.map(videos => {
-
-        
 
          return(<img 
          width={width}
